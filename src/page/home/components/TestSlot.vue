@@ -9,7 +9,7 @@ export default {
   name: 'TestSlot',
   data () {
     return {
-      options: 'http://www.baidu.com'
+      options: 'http://www.lenovo.com'
     }
   }
 }
